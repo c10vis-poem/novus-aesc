@@ -20,6 +20,8 @@ document claiming otherwise is superseded by the naming canon.
 
 ## Conventions
 
+- `laptop-trick-tunnel/` — ADB-to-WebSocket local Unix host bridge logic.
+- `npu-watchdog/` — real-time Genie SDK thermal and OOM monitoring loop.
 - Protocol specs in `protocol/` — daemon lifecycle, IPC contract, permissions.
 - Reference docs in `docs/` — Android accessibility API notes, shell execution
   patterns.
