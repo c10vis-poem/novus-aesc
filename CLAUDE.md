@@ -1,6 +1,6 @@
 # Æsc — terminal daemon
 
-Canon name: **Æsc**. Repo name: `novus-aesc`. See `novae-xorpus/NAMING-CANON.md`.
+Canon name: **Æsc**. Repo name: `novus-aesc`. See `NovAExorpus/NAMING-CANON.md`.
 
 ## What this is
 
